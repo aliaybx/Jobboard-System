@@ -122,7 +122,7 @@ jobboard-final/
 
 1. **Clone the repository**
    ```bash
-   
+   git clone https://github.com/aliaybx/Jobboard-System.git
    ```
 
 2. **Start Apache and MySQL** in XAMPP
@@ -630,4 +630,5 @@ The author assumes no liability for any damages resulting from the use of this c
 <p align="center">
   Made with ❤️ by <a href="https://github.com/Moha1234567890">Ali Ayoub</a>
 </p>
+
 
